@@ -21,10 +21,9 @@
 
 @media (min-width: 900px) {
   .columns > div {
-    align-items: left;
+    align-items: middle;
     flex-direction: unset;
     gap: 32px;
-    background-color: black;
   }
 
   .columns > div > div {
