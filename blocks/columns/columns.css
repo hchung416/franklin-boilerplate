@@ -24,6 +24,7 @@
     align-items: left;
     flex-direction: unset;
     gap: 32px;
+    background-color: black;
   }
 
   .columns > div > div {
